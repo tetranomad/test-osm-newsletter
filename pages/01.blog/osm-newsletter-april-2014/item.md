@@ -34,8 +34,7 @@ There is an up-to-date list of contributors to OSM on the Landing Page, and it�
 
 ### What’s Currently Needed
 
-This is what the OSM Consortium most urgently needs in April/May 2014:  
-
+**_This is what the OSM Consortium most urgently needs in April/May 2014:_**
 1. The most important is compound synthesis. As an open project, anyone can make compounds. A great way for this to happen is to involve cohorts of undergraduate students, as Stefan Debbert of Lawrence University, Wisconsin has already done  
 2. Advice is needed on which Series 4 compounds to make next  
 3. Oversight by experienced medicinal chemists on the Series 4 strategy – see the Series wiki  
