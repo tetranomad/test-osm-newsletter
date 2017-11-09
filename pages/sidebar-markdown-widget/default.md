@@ -8,6 +8,7 @@ visible: false
 #### Useful links
 
 [opensourcemalaria.org](http://opensourcemalaria.org/)
+
 [OSM GitHub](https://github.com/OpenSourceMalaria)
 
 
