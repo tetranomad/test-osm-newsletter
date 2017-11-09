@@ -1,5 +1,6 @@
 ---
 title: 'Just Some Text Today'
+published: false
 date: '13:34 07/10/2017'
 taxonomy:
     category:
@@ -8,6 +9,7 @@ taxonomy:
         - journal
         - link
 hide_git_sync_repo_link: false
+hide_from_post_list: false
 continue_link: true
 link: 'http://daringfireball.net'
 ---
