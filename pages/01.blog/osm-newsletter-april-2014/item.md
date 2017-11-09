@@ -1,6 +1,7 @@
 ---
 title: 'OSM Newsletter April 2014'
 hide_git_sync_repo_link: false
+header_image_file: header1.jpg
 hide_from_post_list: false
 ---
 
