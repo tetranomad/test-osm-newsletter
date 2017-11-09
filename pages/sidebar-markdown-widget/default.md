@@ -10,6 +10,7 @@ visible: false
 [opensourcemalaria.org](http://opensourcemalaria.org/)
 [OSM GitHub](https://github.com/OpenSourceMalaria)
 
+
 #### Subscribe to our mailing list
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
