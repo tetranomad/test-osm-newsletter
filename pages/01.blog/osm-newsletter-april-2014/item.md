@@ -1,5 +1,14 @@
 ---
 title: 'OSM Newsletter April 2014'
+date: '09-11-2017 17:25'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - newsletter
+        - '2014'
+        - update
+        - test
 hide_git_sync_repo_link: false
 header_image: '0'
 hide_from_post_list: false
