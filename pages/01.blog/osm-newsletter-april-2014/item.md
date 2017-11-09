@@ -25,6 +25,7 @@ It had been shown previously that one member of Series 4 (MMV639565) had display
 There is an up-to-date list of contributors to OSM on the Landing Page, and it’s important that everyone is acknowledged. If you’ve contributed, but are not featured, please send in a picture. Recent contributors have included Jo Ubels and Tom Macdonald (both starting Honours in Sydney), Inga Topolnicki and Carmen Tran (Sydney summer students), Eduvie Omene and Devon Scott in Edinburgh, Sabin Llona-Minguez from the Helleday Laboratory at the Karolinska Institute and Karsten Klein who has been working on visualisation of compounds. g  
 
 ## Informatics News
+![](5.jpg)
 
 * Compounds that are evaluated biologically are submitted to ChEMBL, and the project started an in---house compound registration system that anyone can use (though it’s not clear yet how to number compounds with unknown ee)
 * A possible shared mechanism of action between Series 4 and a Novartis compound KAI407 was shown to be unlikely by Paul Willis and Chris Southan
