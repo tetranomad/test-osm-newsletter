@@ -33,23 +33,13 @@ There is an up---to---date list of contributors to OSM on the Landing Page, and 
 This is what the OSM Consortium most urgently needs in April/May 2014:  
 
 1. The most important is compound synthesis. As an open project, anyone can make compounds. A great way for this to happen is to involve cohorts of undergraduate students, as Stefan Debbert of Lawrence University, Wisconsin has already done  
-
 2. Advice is needed on which Series 4 compounds to make next  
-
 3. Oversight by experienced medicinal chemists on the Series 4 strategy – see the Series wiki  
-
 4. Clerical help with adding compounds with inherited MMV codes to the OSM system --- here  
-
-5. Updating of the chemistry and biology on the Series 4 wiki (good for non---lab based people)  
-
-6. Help from existing participants in completing the first OSM paper (more on this very soon)  
-
-7. Contacts are needed at CROs that may be interested in synthesising gram---scale amounts of key intermediates or starting materials, free of charge  
-
+5. Updating of the chemistry and biology on the Series 4 wiki (good for non---lab based people)  6. Help from existing participants in completing the first OSM paper (more on this very soon)  
+7. Contacts are needed at CROs that may be interested in synthesising gram---scale amounts of key intermediates or starting materials, free of charge
 8. Groups interested in investigating/addressing the cause of the low metabolic stability of Series 4  
-
 9. Contacts at academic/industrial groups possessing compounds structurally similar to those in OSM Series 4  
-
 10. Keep an eye out for World Malaria Day on April 25th – maybe you can ‘net a collaborator’ for OSM!  
 
 ## Recent Press About OSM
