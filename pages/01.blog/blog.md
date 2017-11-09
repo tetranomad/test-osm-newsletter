@@ -1,5 +1,5 @@
 ---
-title: 'Blog & Newsletter'
+title: 'Blog and Newsletter'
 hide_git_sync_repo_link: false
 body_classes: 'header-image fullwidth'
 content:
@@ -20,4 +20,4 @@ pagination: true
 ---
 
 # Open Source Malaria
-## Latest news and summary of developments
+## Latest news and developments
