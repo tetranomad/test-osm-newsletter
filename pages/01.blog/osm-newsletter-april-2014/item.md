@@ -5,15 +5,15 @@ hide_from_post_list: false
 ---
 
 ## Synthetic Targets
-
- The main current synthetic focus is on [OSM Series 4](https://openwetware.org/wiki/OpenSourceMalaria:Triazolopyrazine_(TP)_Series) (the triazolopyrazines). Much of the SAR of this series is known, given that it was explored by MMV and Pfizer, but there are active community consultations on both the [ether](http://malaria.ourexperiment.org/the_osm_blog/9601) and [amide](http://malaria.ourexperiment.org/the_osm_blog/9519) sub-series to determine which compounds should be made next – please take a look and suggest possible compounds to be made. 
+![](1.jpg)
+The main current synthetic focus is on [OSM Series 4](https://openwetware.org/wiki/OpenSourceMalaria:Triazolopyrazine_(TP)_Series) (the triazolopyrazines). Much of the SAR of this series is known, given that it was explored by MMV and Pfizer, but there are active community consultations on both the [ether](http://malaria.ourexperiment.org/the_osm_blog/9601) and [amide](http://malaria.ourexperiment.org/the_osm_blog/9519) sub-series to determine which compounds should be made next – please take a look and suggest possible compounds to be made. 
 
 ## Synthetic News
-
+![](2.jpg)
 The synthetic chemistry for Series 4 has recently been the focus of extensive community collaboration, giving robust routes to both ethers and amides (summary here). The starting material for the amide series can now be accessed by two different approaches. One approach was developed by Patrick Thomson and Eduvie Omene in Edinburgh, and Inga Topolnicki and Tom Macdonald in Sydney and the other by Sabin Minguez in Stockholm. An interesting oxidative cyclisation that Alice Williamson, Jo Ubels and Tom have been working on is now working nicely to give the triazolopyrazine core and Jo and Tom have solved ether and amide bond formations.  
 
 ## Biology News
-
+![](3.jpg)
 It had been shown previously that one member of Series 4 (MMV639565) had displayed excellent parasite clearance in vivo, and this has now been seen with another member (MMV669844) suggesting this is a general property of the series. This latter compound and an amide (MMV670944) analog showed hERG activity, requiring this to be addressed in analog design – please suggest ways to do this if this is an area of your expertise. New compounds will be evaluated for PfATP4 activity in Kiaran Kirk’s lab at the ANU. The series shows low metabolic stability; are there groups interested in investigating the possible cause of this and suggesting potential solutions?  
 
 ## New Faces
