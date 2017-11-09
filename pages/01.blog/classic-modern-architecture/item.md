@@ -1,5 +1,6 @@
 ---
 title: 'Classic Modern Architecture'
+published: false
 date: '17:34 06/27/2017'
 taxonomy:
     category:
@@ -7,9 +8,12 @@ taxonomy:
     tag:
         - photography
         - architecture
-header_image_credit: 'Unsplash'
-header_image_creditlink: 'https://unsplash.com/'
+hide_git_sync_repo_link: false
+header_image: '1'
 header_image_alt_text: 'Modern building'
+header_image_credit: Unsplash
+header_image_creditlink: 'https://unsplash.com/'
+hide_from_post_list: false
 ---
 
 Lorem ipsum fringilla cras tempus sagittis pretium tristique id pulvinar habitant varius interdum vel integer fusce aptent id laoreet condimentum eget urna lectus, congue metus placerat auctor litora pharetra facilisis ultricies convallis, leo bibendum hac tempor bibendum litora phasellus rutrum fermentum.
