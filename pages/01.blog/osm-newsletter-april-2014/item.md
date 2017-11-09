@@ -53,7 +53,7 @@ There is an up-to-date list of contributors to OSM on the [Landing Page](http://
 7. Contacts are needed at CROs that may be interested in synthesising gram-scale amounts of key intermediates or starting materials, free of charge
 8. Groups interested in investigating/addressing the cause of the low metabolic stability of Series 4  
 9. Contacts at academic/industrial groups possessing compounds structurally similar to those in OSM Series 4  
-10. Keep an eye out for [World Malaria Day](http://www.who.int/campaigns/malaria-day/2014/event/en/) on April 25th – _maybe you can <span style="color:red">‘net a collaborator’</span> for OSM!_  
+10. Keep an eye out for [World Malaria Day](http://www.who.int/campaigns/malaria-day/2014/event/en/) on April 25th – _maybe you can [color=red]‘net a collaborator’[/color] for OSM!_  
 
 ### Recent Press About OSM
 ![](6.jpg)
