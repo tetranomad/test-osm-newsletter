@@ -28,7 +28,7 @@ There is an up-to-date list of contributors to OSM on the [Landing Page](http://
 ### Informatics News
 ![](5.jpg)
 
-* Compounds that are evaluated biologically are submitted to ChEMBL, and the project started an in---house compound registration system that anyone can use (though it’s not clear yet how to number compounds with unknown ee)
+* Compounds that are evaluated biologically are submitted to [ChEMBL](http://malaria.ourexperiment.org/osm_logos_and_templ/8913), and the project started an in-house compound registration system that anyone can use (though [it’s not clear yet how to number compounds with unknown ee](https://github.com/OpenSourceMalaria/OSM_To_Do_List/issues/172))
 * A possible shared mechanism of action between Series 4 and a Novartis compound KAI407 was shown to be unlikely by Paul Willis and Chris Southan
 * Patrick Thomson developed an email summary service for OSM’s prolific use of GitHub (used to track project activity)  
 
