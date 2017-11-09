@@ -18,7 +18,7 @@ The [synthetic chemistry for Series 4](http://malaria.ourexperiment.org/triazolo
 ### Biology News
 ![](3.jpg)
 
-It had been shown previously that one member of Series 4 (MMV639565) had displayed excellent parasite clearance in vivo, and this has now been seen with another member (http://malaria.ourexperiment.org/biological_data/9191) suggesting this is a general property of the series. This latter compound and an amide (MMV670944) analog [showed hERG activity](http://malaria.ourexperiment.org/biological_data/9562), requiring this to be addressed in analog design – please suggest ways to do this if this is an area of your expertise. New compounds will be evaluated for PfATP4 activity in Kiaran Kirk’s lab[](http://biology.anu.edu.au/research/labs/kirk-lehane-lab-membrane-transport-parasites) at the ANU. The series shows low metabolic stability; are there groups interested in investigating the possible cause of this and suggesting potential solutions?  
+It had been shown previously that one member of Series 4 (MMV639565) had displayed excellent parasite clearance in vivo, and this has now been seen with another member [(MMV669844)](http://malaria.ourexperiment.org/biological_data/9191) suggesting this is a general property of the series. This latter compound and an amide (MMV670944) analog [showed hERG activity](http://malaria.ourexperiment.org/biological_data/9562), requiring this to be addressed in analog design – please suggest ways to do this if this is an area of your expertise. New compounds will be evaluated for PfATP4 activity in Kiaran Kirk’s lab[](http://biology.anu.edu.au/research/labs/kirk-lehane-lab-membrane-transport-parasites) at the ANU. The series shows low metabolic stability; are there groups interested in investigating the possible cause of this and suggesting potential solutions?  
 
 ### New Faces
 ![](4.jpg)
@@ -35,21 +35,21 @@ There is an up-to-date list of contributors to OSM on the [Landing Page](http://
 ### What’s Currently Needed
 
 **_This is what the OSM Consortium most urgently needs in April/May 2014:_**
-1. The most important is <span style="color:red">_compound synthesis_</span>. As an open project, anyone can make compounds. A great way for this to happen is to involve cohorts of undergraduate students, as Stefan Debbert of Lawrence University, Wisconsin has already done  
-2. Advice is needed on which Series 4 compounds to make next  
-3. Oversight by experienced medicinal chemists on the Series 4 strategy – see the Series wiki  
-4. Clerical help with adding compounds with inherited MMV codes to the OSM system - here  
-5. Updating of the chemistry and biology on the Series 4 wiki (good for non-lab based people)
+1. The most important is <span style="color:red">_compound synthesis_</span>. As an open project, anyone can make compounds. A great way for this to happen is to involve cohorts of undergraduate students, as [Stefan Debbert](http://www2.lawrence.edu/fast/debberts/) of Lawrence University, Wisconsin has already done
+2. Advice is needed on [which Series 4 compounds to make next](http://malaria.ourexperiment.org/the_osm_blog)
+3. Oversight by experienced medicinal chemists on the Series 4 strategy – see the [Series wiki](https://openwetware.org/wiki/OpenSourceMalaria:Triazolopyrazine_(TP)_Series)
+4. Clerical help with adding compounds with inherited MMV codes to the OSM system - [here](https://github.com/OpenSourceMalaria/OSM_To_Do_List/issues/175)
+5. Updating of the chemistry and biology on the [Series 4 wiki](https://openwetware.org/wiki/OpenSourceMalaria:Triazolopyrazine_(TP)_Series) (good for non-lab based people)
 6. Help from existing participants in completing the first OSM paper (more on this very soon)  
 7. Contacts are needed at CROs that may be interested in synthesising gram-scale amounts of key intermediates or starting materials, free of charge
 8. Groups interested in investigating/addressing the cause of the low metabolic stability of Series 4  
 9. Contacts at academic/industrial groups possessing compounds structurally similar to those in OSM Series 4  
-10. Keep an eye out for World Malaria Day on April 25th – _maybe you can **‘net a collaborator’** for OSM!_  
+10. Keep an eye out for [World Malaria Day](http://www.who.int/campaigns/malaria-day/2014/event/en/) on April 25th – _maybe you can <span style="color:red">‘net a collaborator’</span> for OSM!_  
 
 ### Recent Press About OSM
 ![](6.jpg)
 
-There was an article in The Saturday Paper about OSM and the project was featured in International Innovation’s Parasites of Poverty issue along with friends from MMV and WHO. Mat Todd featured in a video about the importance of open access that was made following OSM receiving a Wellcome Trust/Google/PLoS ASAP award last year (OSM’s traffic spiked after this was tweeted by Bill Gates).  
+There was an [article in The Saturday Paper](https://www.thesaturdaypaper.com.au/life/2014/03/08/freeing-the-business-science/1394197200%23.UxpFBF7byY4) about OSM and the project was featured in International Innovation’s Parasites of Poverty issue along with friends from MMV and WHO. Mat Todd featured in a video about the importance of open access that was made following OSM receiving a Wellcome Trust/Google/PLoS ASAP award last year (OSM’s traffic spiked after this was tweeted by Bill Gates).  
 
 ### About OSM and How to Join  
 ![](osm-contributors-2014.jpg)
