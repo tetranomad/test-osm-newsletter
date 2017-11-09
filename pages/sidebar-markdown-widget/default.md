@@ -1,9 +1,10 @@
 ---
-title: Sidebar Markdown Widget
+title: 'Sidebar Markdown Widget'
+hide_git_sync_repo_link: false
 routable: false
 visible: false
 ---
 
 #### Markdown Widget
 
-Some text here.
+Perhaps links to OSM GitHub, .org site, etc?
