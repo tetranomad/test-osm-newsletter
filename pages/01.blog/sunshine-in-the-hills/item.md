@@ -1,13 +1,19 @@
 ---
-title: Sunshine in the Hills
-date: 14:55 07/11/2017
-author: Tasha Maxwell
+title: 'Sunshine in the Hills'
+published: false
+date: '14:55 07/11/2017'
 taxonomy:
-    category: blog
-    tag: [journal, photography]
-header_image_credit: 'Unsplash'
-header_image_creditlink: 'https://unsplash.com/'
+    category:
+        - blog
+    tag:
+        - journal
+        - photography
+hide_git_sync_repo_link: false
 header_image_alt_text: 'Sunrise over mountains'
+header_image_credit: Unsplash
+header_image_creditlink: 'https://unsplash.com/'
+hide_from_post_list: false
+author: 'Tasha Maxwell'
 ---
 
 Lorem ipsum fringilla cras tempus sagittis pretium tristique id pulvinar habitant varius interdum vel integer fusce aptent id laoreet condimentum eget urna lectus, congue metus placerat auctor litora pharetra facilisis ultricies convallis, leo bibendum hac tempor bibendum litora phasellus rutrum fermentum.
