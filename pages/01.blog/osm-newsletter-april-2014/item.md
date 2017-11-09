@@ -18,12 +18,12 @@ The [synthetic chemistry for Series 4](http://malaria.ourexperiment.org/triazolo
 ### Biology News
 ![](3.jpg)
 
-It had been shown previously that one member of Series 4 (MMV639565) had displayed excellent parasite clearance in vivo, and this has now been seen with another member (http://malaria.ourexperiment.org/biological_data/9191) suggesting this is a general property of the series. This latter compound and an amide (MMV670944) analog [showed hERG activity](http://malaria.ourexperiment.org/biological_data/9562), requiring this to be addressed in analog design – please suggest ways to do this if this is an area of your expertise. New compounds will be evaluated for PfATP4 activity in Kiaran Kirk’s lab at the ANU. The series shows low metabolic stability; are there groups interested in investigating the possible cause of this and suggesting potential solutions?  
+It had been shown previously that one member of Series 4 (MMV639565) had displayed excellent parasite clearance in vivo, and this has now been seen with another member (http://malaria.ourexperiment.org/biological_data/9191) suggesting this is a general property of the series. This latter compound and an amide (MMV670944) analog [showed hERG activity](http://malaria.ourexperiment.org/biological_data/9562), requiring this to be addressed in analog design – please suggest ways to do this if this is an area of your expertise. New compounds will be evaluated for PfATP4 activity in Kiaran Kirk’s lab[](http://biology.anu.edu.au/research/labs/kirk-lehane-lab-membrane-transport-parasites) at the ANU. The series shows low metabolic stability; are there groups interested in investigating the possible cause of this and suggesting potential solutions?  
 
 ### New Faces
 ![](4.jpg)
 
-There is an up-to-date list of contributors to OSM on the Landing Page, and it’s important that everyone is acknowledged. If you’ve contributed, but are not featured, please send in a picture. Recent contributors have included Jo Ubels and Tom Macdonald (both starting Honours in Sydney), Inga Topolnicki and Carmen Tran (Sydney summer students), Eduvie Omene and Devon Scott in Edinburgh, Sabin Llona-Minguez from the Helleday Laboratory at the Karolinska Institute and Karsten Klein who has been working on visualisation of compounds. g  
+There is an up-to-date list of contributors to OSM on the [Landing Page](http://opensourcemalaria.org/), and it’s important that everyone is acknowledged. If you’ve contributed, but are not featured, please send in a picture. Recent contributors have included Jo Ubels and Tom Macdonald (both starting Honours in Sydney), Inga Topolnicki and Carmen Tran (Sydney summer students), Eduvie Omene and Devon Scott in Edinburgh, Sabin Llona-Minguez from the Helleday Laboratory at the Karolinska Institute and Karsten Klein who has been working on visualisation of compounds. g  
 
 ### Informatics News
 ![](5.jpg)
