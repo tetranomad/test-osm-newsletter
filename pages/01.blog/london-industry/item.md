@@ -1,12 +1,19 @@
 ---
-title: London Industry at Night
-date: 13:34 06/07/2017
+title: 'London Industry at Night'
+published: false
+date: '13:34 06/07/2017'
 taxonomy:
-    category: blog
-    tag: [city, night, photography]
-header_image_credit: 'Unsplash'
-header_image_creditlink: 'https://unsplash.com/'
+    category:
+        - blog
+    tag:
+        - photography
+        - city
+        - night
+hide_git_sync_repo_link: false
 header_image_alt_text: 'City at night'
+header_image_credit: Unsplash
+header_image_creditlink: 'https://unsplash.com/'
+hide_from_post_list: false
 ---
 
 Lorem ipsum fringilla cras tempus sagittis pretium tristique id pulvinar habitant varius interdum vel integer fusce aptent id laoreet condimentum eget urna lectus, congue metus placerat auctor litora pharetra facilisis ultricies convallis, leo bibendum hac tempor bibendum litora phasellus rutrum fermentum.
