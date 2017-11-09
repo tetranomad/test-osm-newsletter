@@ -45,7 +45,7 @@ This is what the OSM Consortium most urgently needs in April/May 2014:
 7. Contacts are needed at CROs that may be interested in synthesising gram-scale amounts of key intermediates or starting materials, free of charge
 8. Groups interested in investigating/addressing the cause of the low metabolic stability of Series 4  
 9. Contacts at academic/industrial groups possessing compounds structurally similar to those in OSM Series 4  
-10. Keep an eye out for World Malaria Day on April 25th – maybe you can ‘net a collaborator’ for OSM!  
+10. Keep an eye out for World Malaria Day on April 25th – _maybe you can **‘net a collaborator’** for OSM!_  
 
 ### Recent Press About OSM
 ![](6.jpg)
@@ -55,4 +55,4 @@ There was an article in The Saturday Paper about OSM and the project was feature
 ### About OSM and How to Join  
 ![](osm-contributors-2014.jpg)
 
-Open Source Malaria (OSM) aims to discover new medicines for the treatment of malaria using an open source model. All data and ideas are freely shared and anyone may participate. OSM is funded by the Australian Government with the Medicines for Malaria Venture, who also provide scientific leadership. Visit the main landing page (opensourcemalaria.org) to follow news about the project, the latest scientific developments and alerts about what OSM currently needs and ways your research could add to the consortium’s activities. 
+_Open Source Malaria (OSM) aims to discover new medicines for the treatment of malaria using an open source model. All data and ideas are freely shared and anyone may participate. OSM is funded by the Australian Government with the Medicines for Malaria Venture, who also provide scientific leadership. Visit the main landing page (opensourcemalaria.org) to follow news about the project, the latest scientific developments and alerts about what OSM currently needs and ways your research could add to the consortium’s activities._ 
