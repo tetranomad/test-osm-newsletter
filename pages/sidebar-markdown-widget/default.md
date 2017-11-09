@@ -11,7 +11,7 @@ visible: false
 
 [OSM GitHub](https://github.com/OpenSourceMalaria)
 
----
+
 
 #### Subscribe to our mailing list
 <!-- Begin MailChimp Signup Form -->
