@@ -1,9 +1,14 @@
 ---
-title: Random Thoughts
-date: 13:34 05/26/2017
+title: 'Random Thoughts'
+published: false
+date: '13:34 05/26/2017'
 taxonomy:
-    category: blog
-    tag: [journal]
+    category:
+        - blog
+    tag:
+        - journal
+hide_git_sync_repo_link: false
+hide_from_post_list: false
 ---
 
 Lorem ipsum fringilla cras tempus sagittis pretium tristique id pulvinar habitant varius interdum vel integer fusce aptent id laoreet condimentum eget urna lectus, congue metus placerat auctor litora pharetra facilisis ultricies convallis, leo bibendum hac tempor bibendum litora phasellus rutrum fermentum.
