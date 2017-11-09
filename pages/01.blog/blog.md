@@ -1,8 +1,6 @@
 ---
 title: Blog
 hide_git_sync_repo_link: false
-sitemap:
-    changefreq: monthly
 body_classes: 'header-image fullwidth'
 content:
     items: '@self.children'
@@ -12,6 +10,8 @@ content:
         dir: desc
     pagination: true
     url_taxonomy_filters: true
+sitemap:
+    changefreq: monthly
 blog_url: blog
 feed:
     description: 'Sample Blog Description'
@@ -19,5 +19,5 @@ feed:
 pagination: true
 ---
 
-# My Open Publishing Space
-## Publish, share and collaboratively edit Markdown-based content
+# Open Source Malaria
+## Latest news and summary of developments
