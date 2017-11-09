@@ -5,6 +5,8 @@ routable: false
 visible: false
 ---
 
-#### Markdown Widget
+#### Useful links
 
-Perhaps links to OSM GitHub, .org site, etc?
+[opensourcemalaria.org](http://opensourcemalaria.org/)
+[OSM GitHub](https://github.com/OpenSourceMalaria)
+
