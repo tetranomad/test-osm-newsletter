@@ -44,7 +44,7 @@ There is an up-to-date list of contributors to OSM on the [Landing Page](http://
 ### What’s Currently Needed
 
 **_This is what the OSM Consortium most urgently needs in April/May 2014:_**
-1. The most important is <span style="color:red">_compound synthesis_</span>. As an open project, anyone can make compounds. A great way for this to happen is to involve cohorts of undergraduate students, as [Stefan Debbert](http://www2.lawrence.edu/fast/debberts/) of Lawrence University, Wisconsin has already done
+1. The most important is [color=red]_compound synthesis_[/color]. As an open project, anyone can make compounds. A great way for this to happen is to involve cohorts of undergraduate students, as [Stefan Debbert](http://www2.lawrence.edu/fast/debberts/) of Lawrence University, Wisconsin has already done
 2. Advice is needed on [which Series 4 compounds to make next](http://malaria.ourexperiment.org/the_osm_blog)
 3. Oversight by experienced medicinal chemists on the Series 4 strategy – see the [Series wiki](https://openwetware.org/wiki/OpenSourceMalaria:Triazolopyrazine_(TP)_Series)
 4. Clerical help with adding compounds with inherited MMV codes to the OSM system - [here](https://github.com/OpenSourceMalaria/OSM_To_Do_List/issues/175)
