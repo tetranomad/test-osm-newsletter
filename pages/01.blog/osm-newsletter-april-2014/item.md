@@ -18,7 +18,7 @@ It had been shown previously that one member of Series 4 (MMV639565) had display
 
 ## New Faces
 
-There is an up---to---date list of contributors to OSM on the Landing Page, and it’s important that everyone is acknowledged. If you’ve contributed, but are not featured, please send in a picture. Recent contributors have included Jo Ubels and Tom Macdonald (both starting Honours in Sydney), Inga Topolnicki and Carmen Tran (Sydney summer students), Eduvie Omene and Devon Scott in Edinburgh, Sabin Llona---Minguez from the Helleday Laboratory at the Karolinska Institute and Karsten Klein who has been working on visualisation of compounds. g  
+There is an up-to-date list of contributors to OSM on the Landing Page, and it’s important that everyone is acknowledged. If you’ve contributed, but are not featured, please send in a picture. Recent contributors have included Jo Ubels and Tom Macdonald (both starting Honours in Sydney), Inga Topolnicki and Carmen Tran (Sydney summer students), Eduvie Omene and Devon Scott in Edinburgh, Sabin Llona-Minguez from the Helleday Laboratory at the Karolinska Institute and Karsten Klein who has been working on visualisation of compounds. g  
 
 ## Informatics News
 
@@ -36,7 +36,8 @@ This is what the OSM Consortium most urgently needs in April/May 2014:
 2. Advice is needed on which Series 4 compounds to make next  
 3. Oversight by experienced medicinal chemists on the Series 4 strategy – see the Series wiki  
 4. Clerical help with adding compounds with inherited MMV codes to the OSM system --- here  
-5. Updating of the chemistry and biology on the Series 4 wiki (good for non---lab based people)  6. Help from existing participants in completing the first OSM paper (more on this very soon)  
+5. Updating of the chemistry and biology on the Series 4 wiki (good for non---lab based people)
+6. Help from existing participants in completing the first OSM paper (more on this very soon)  
 7. Contacts are needed at CROs that may be interested in synthesising gram---scale amounts of key intermediates or starting materials, free of charge
 8. Groups interested in investigating/addressing the cause of the low metabolic stability of Series 4  
 9. Contacts at academic/industrial groups possessing compounds structurally similar to those in OSM Series 4  
