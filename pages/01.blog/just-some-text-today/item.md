@@ -1,5 +1,6 @@
 ---
 title: 'Just Some Text Today'
+published: false
 date: '13:34 06/23/2017'
 taxonomy:
     category:
@@ -7,7 +8,9 @@ taxonomy:
     tag:
         - journal
         - text
+hide_git_sync_repo_link: false
 post_icon: pencil-square-o
+hide_from_post_list: false
 continue_link: false
 ---
 
