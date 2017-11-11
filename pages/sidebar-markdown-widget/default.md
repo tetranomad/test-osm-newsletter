@@ -33,3 +33,5 @@ visible: false
 </div>
 
 <!--End mc_embed_signup-->
+
+[plugin:page-inject](/osm-twitter-feed)
